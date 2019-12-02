@@ -1,0 +1,131 @@
+<link rel='stylesheet' href='../../assets/css/main.css'/>
+
+[<< back to main index](../../README.md) 
+
+Lab 1.6 : Write Unit Tests Using SPECS2 Framework
+===================================
+
+### Overview
+Write Unit Tests
+
+### Depends On 
+None
+
+### Run time
+40 mins
+
+## Recommended Setup (In order of preference)
+* If you are using an IDE (like IntelliJ)  please open the project as an SBT project.
+* If you are using a UI editor like 'Sublime'  open the 'project root directory'  in editor (so you can navigate to all files easily).
+* If using command line, please open 2 terminals - 1 for editing files and other for running commands.
+
+## Step 0 : Instructor
+* Get the lab started on your screen. 
+* Show how to complete TODO-1 (upto STEP 5) on screen.
+* Then let the class complete rest of the TODO items.
+
+## Step 1 : Project Directory
+Project directory is : `~/spark-labs/01-scala/vending-machine`
+
+Here is the project hierarchy:
+
+<img src="../../assets/images/1.5b.png" style="border: 5px solid grey ; max-width:100%;" />
+
+
+## Step 2 : Open Project in IntelliJ
+* File -> Open
+* Navigate to : `~/spark-labs/01-scala/vending-machine` directory
+* Select `build.sbt` file
+* Make sure `Use Auto Import` is checked
+
+**See screen shots below**
+
+<img src="../../assets/images/1.5c.png" style="border: 5px solid grey ; max-width:100%;" />
+<img src="../../assets/images/1.5d.png" style="border: 5px solid grey ; max-width:100%;" />
+<img src="../../assets/images/1.5e.png" style="border: 5px solid grey ; max-width:100%;" />
+
+Final project should look like this:
+
+<img src="../../assets/images/1.5f.png" style="border: 5px solid grey ; max-width:100%;" />
+
+## Step 3 : VendingMachine Test
+* Inspect  the file `src/test/scala/x/VendingMachineTest.scala`.  
+* This file has bunch of skeleton unit tests defined already.
+* Run this file by 'Right Click -> Run'
+* Watch the test console output
+
+The tests will probably fail !  We need to make sure our implementation is correct.
+
+## Step 4 : Fix test cases
+Here is how we fix TODO-1.
+
+```scala
+    ...
+    "accept additinal inventory" in {
+      val machine = new MyVendingMachine
+      machine.addStockItem("candy", 2, 5) mustEqual 5
+      machine.addStockItem("candy", 2, 2) mustEqual 7
+    }
+  ...
+```
+
+Be sure to remove ` 1 mustEqual 0 ` at the end of all tests!!
+
+Save and run the test.
+
+## ===== Lab Ends Here =====
+
+## To Use SBT Command Line Utility
+Using one terminal, launch SBT from project root directory.
+```
+    $   cd   ~/spark-labs/01-scala/vending-machine
+
+    $   sbt
+
+```
+
+You would enter SBT prompt like follows:
+
+```console
+    [info] Loading global plugins from /Users/sujee/.sbt/0.13/plugins
+    [info] Loading project definition from /Users/sujee/ElephantScale/spark-labs/01-scala/vending-machine/project
+    [info] Set current project to vending-machine (in build file:/Users/sujee/ElephantScale/spark-labs/01-scala/vending-machine/)
+
+    > 
+```
+
+### Quick Tip: Arrange SBT & Edit windows
+Here is a tip to arrange terminal windows.  
+
+<img src="../../assets/images/1.5a.png" style="border: 5px solid grey ; max-width:100%;" />
+
+
+
+##  Run The Test
+
+On your SBT terminal type 
+```
+    sbt>
+        test
+        [info] MyVendingMachineTest
+        [info] + accept additional inventory
+```
+
+Now 'accept additional inventory' test is passing ! 
+
+
+## SBT tidbits
+You can issue sbt commands from shell as follows
+```
+    $   sbt  clean compile test
+```
+
+For iterative development, sbt shell is much faster !
+
+```
+    $   sbt
+    > clean
+    > compile 
+    > test
+    > test
+```
