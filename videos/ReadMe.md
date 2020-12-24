@@ -1,9 +1,9 @@
-- BigData : shorturl.at/bxEUW
-- Apache Sqoop : shorturl.at/oxMPR
-- Apache Hive : shorturl.at/hpqOV
-- Apache Spark : shorturl.at/IUY89
-- Apache Spark Streaming : shorturl.at/mCFVW
-- Apache Kafka : shorturl.at/vFO28
-- Apache oozie : shorturl.at/dxAI5
-- Apache NiFi : shorturl.at/wKLO9
-- Talend : shorturl.at/mxN29
+- [BigData]( shorturl.at/bxEUW )
+- [Apache Sqoop](shorturl.at/oxMPR)
+- [Apache Hive](shorturl.at/hpqOV)
+- [Apache Spark](shorturl.at/IUY89)
+- [Apache Spark Streaming](shorturl.at/mCFVW)
+- [Apache Kafka](shorturl.at/vFO28)
+- [Apache oozie](shorturl.at/dxAI5)
+- [Apache NiFi](shorturl.at/wKLO9)
+- [Talend](shorturl.at/mxN29)
