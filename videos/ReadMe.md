@@ -19,18 +19,18 @@
 - [Azure interview questions](https://shorturl.at/efzEM)
 
 **AWS**
-- [**AWS**](https://shorturl.at/oySY5
+- [Introduction](https://shorturl.at/oySY5)
 
-- [**AWS vs Azure vs GCP**](https://shorturl.at/pEINT
+- [**AWS vs Azure vs GCP**](https://shorturl.at/pEINT)
 
 **Data Science**
-- [**Machine Learning**](https://shorturl.at/imBQ2
+- [Machine Learning](https://shorturl.at/imBQ2)
 
 **DevOps**
 
-- [Jenkins](https://shorturl.at/aMNU1
-- [Docker](https://shorturl.at/csLY8
+- [Jenkins](https://shorturl.at/aMNU1)
+- [Docker](https://shorturl.at/csLY8)
 
 **Others**
-- [**Agile Methodology**](https://shorturl.at/esEU4
-- [**GitHub** ](https://shorturl.at/ghoMN
+- [Agile Methodology](https://shorturl.at/esEU4)
+- [GitHub](https://shorturl.at/ghoMN)
