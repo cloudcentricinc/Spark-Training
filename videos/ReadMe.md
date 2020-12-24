@@ -7,3 +7,11 @@
 - [Apache oozie](https://shorturl.at/dxAI5)
 - [Apache NiFi](https://shorturl.at/wKLO9)
 - [Talend](https://shorturl.at/mxN29)
+
+**Azure**
+- [Azure Tutorial For Beginners ]
+    o	https://shorturl.at/tHU48
+    o	https://shorturl.at/cBG08
+- [Azure DevOps](https://shorturl.at/jJMOP)
+- [Power BI](https://shorturl.at/fgzEW)
+- [Azure interview questions](https://shorturl.at/efzEM)
