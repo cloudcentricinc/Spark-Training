@@ -9,9 +9,7 @@
 - [Talend](https://shorturl.at/mxN29)
 
 **Azure**
-- [Azure Tutorial For Beginners ]
-    o	https://shorturl.at/tHU48
-    o	https://shorturl.at/cBG08
+- [Azure Tutorial For Beginners](https://shorturl.at/tHU48)
 - [Azure DevOps](https://shorturl.at/jJMOP)
 - [Power BI](https://shorturl.at/fgzEW)
 - [Azure interview questions](https://shorturl.at/efzEM)
