@@ -1,5 +1,6 @@
 **Programming Languages**
-- [**Python**](https://shorturl.at/muBFW
+- [**Python**](https://shorturl.at/muBFW)
+- [**Scala**](https://www.youtube.com/watch?v=xNAD6cBKyaA)
 
 **BigData**
 - [BigData](https://shorturl.at/bxEUW)
