@@ -13,6 +13,10 @@
 - [**sql-analyzing-business-metrics**](https://www.codecademy.com/learn/sql-analyzing-business-metrics)
 - [**sql-table-transformation**](https://www.codecademy.com/learn/sql-table-transformation)
 
+**Unix**
+
+- [**Unix Commands**](https://youtu.be/DibgJmxMWPg)
+
 **Bash Scripting**
 
 - [**Bash**](https://www.codecademy.com/learn/bash-scripting)
@@ -21,6 +25,7 @@
 
 - [**Hadoop YARN Architecture**](https://youtu.be/fCoivEBDmYA)
 - [**MapReduce**](https://youtu.be/SqvAaB3vK8U)
+- [**Sqoop**](https://youtu.be/Lo1MoNKE-l8)
 - [**Apache Hive**](https://youtu.be/ynNFghq-zdE)
 - [**Apache Spark**](https://youtu.be/T6PDeK9kdHY)
 - [**HBase**](https://youtu.be/ZCWiZNBV6-U)
@@ -34,7 +39,13 @@
 - [**Azure Data Factory**](https://youtu.be/h7xAq0vs7kY)
 - [**Azure Databricks**](https://youtu.be/TScSdIJ-_Oo)
 - [**Azure Data Lake**](https://youtu.be/sS3Xsw-F344)
+- [**Azure DevOps**](https://youtu.be/XmlLRxewmXQ)
 
+**AWS**
+
+- [**AWS RedShift**](https://youtu.be/CyMA7bJdVfI)
+- [**AWS Lambda**](https://youtu.be/MrBo_m1-gFY)
+- [**AWS Glue**](https://youtu.be/taR2hRZ2AwI)
 
 
 
